@@ -1,5 +1,5 @@
 {
-    "name": "Notepad",
-    "version": "1.2.0",
-    "download_url": "https://raw.githubusercontent.com/user/repo/main/apps/notepad.zip"
+    "name": "Cmd",
+    "version": "1.0.0",
+    "download_url": "https://github.com/lumister/cmd/archive/refs/heads/main.zip"
 }
